@@ -1,4 +1,5 @@
----
+hehuahuang0910@gmail.com.tw
+台中市
 title: Setting your commit email address
 intro: 'You can set the email address that is used to author commits on {% data variables.product.product_location %} and on your computer.'
 redirect_from:
